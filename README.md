@@ -1,0 +1,1 @@
+# FLUX↔PLATO Bridge\n\nConnect FLUX bytecode execution to PLATO knowledge tiles.\n\n## What It Does\n\n- Translate PLATO tiles to FLUX bytecode\n- Execute FLUX VM operations triggered by PLATO tiles\n- Write FLUX computation results back to PLATO\n\n## Usage\n\n\n\nPart of the [Cocapn Fleet](https://github.com/SuperInstance).
